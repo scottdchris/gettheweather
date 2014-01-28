@@ -7,16 +7,16 @@ http://www.scottdchris.com/
 from twython import Twython
 import django
 from bs4 import BeautifulSoup
-import pprint		#Pretty Print
+import pprint	#Pretty Print
 import json
-import requests		#Requests
-import re 			#Regular Expressions
+import requests	#Requests
+import re 	#Regular Expressions
 import time
 
 #Twython OAuth 1 Authentication
 APP_KEY		= #Removed for git
 APP_SECRET	= #Removed for git
-OAUTH_TOKEN = #Removed for git
+OAUTH_TOKEN 	= #Removed for git
 OAUTH_TOKEN_SECRET = #Removed for git
 
 #Global variables
